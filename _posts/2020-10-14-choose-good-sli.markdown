@@ -105,5 +105,5 @@ Once you have set the SLI's you could set your SLO's , always make sure you have
 also setup.
 
 
-[previous post]:/sre/2020/10/13/measuring-and-targeting-reliability.html 
+[previous post]:/sre_blog/sre/2020/10/13/measuring-and-targeting-reliability.html 
 [AWS application load balancer]:https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
