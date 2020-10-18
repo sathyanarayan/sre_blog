@@ -133,4 +133,4 @@ on different infrastructure.
 
 
 
-[previous post]:/sre/2020/10/13/sre-and-devops.html
+[previous post]:/sre_blog/sre/2020/10/13/sre-and-devops.html
