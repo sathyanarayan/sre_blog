@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developing SLO and SLI"
-date:   2020-10-14 03:12:00 +0530
+date:   2020-10-15 03:12:00 +0530
 categories: SRE
 --- 
 
