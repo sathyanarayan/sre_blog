@@ -50,7 +50,7 @@ Watch this video : [SRE VS DevOps] [SRE VS DevOps]
 * What do you mean by SLI SLO and SLA 
 * [Measuring and Operating for Reliability] [Measuring and Operating for Reliability]
 * [How to choose a Good SLI] [How to choose a Good SLI]
-* Developing SLO's and SLI's for a new Service
+* [Developing SLO's and SLI's for a new Service] [Developing SLO's and SLI's for a new Service]
 * Quantifying Risks to SLO's
 * Consequences of not having SLO's 
 
@@ -106,5 +106,6 @@ service we know that most of the response are served withing 200 ms , so we coul
 of any issue, we could catch it earlier. So in this above case SLA is of 400ms , SLO is set at 250ms and SLI : Latency. 
 
 [SRE VS DevOps]:https://www.youtube.com/watch?v=uTEL8Ff1Zvk 
-[Measuring and Operating for Reliability]:/sre/2020/10/13/measuring-and-targeting-reliability.html
-[How to choose a Good SLI]:/sre/2020/10/14/choose-good-sli.html
+[Measuring and Operating for Reliability]:/sre_blog//sre/2020/10/13/measuring-and-targeting-reliability.html
+[How to choose a Good SLI]:/sre_blog/sre/2020/10/14/choose-good-sli.html
+[Developing SLO's and SLI's for a new Service]:/sre_blog/sre/2020/10/15/developing-slo-sli.html
