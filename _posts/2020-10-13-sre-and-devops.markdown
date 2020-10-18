@@ -44,7 +44,15 @@ or implementing auto-rollback monitors (it would rollback to previous stable ver
 In this and subsequent posts ill try to cover couple of important SRE concepts, after reading these series of posts 
 you should be able to implement these concepts and make your service more reliable. 
 
-Watch this video : [SRE VS DevOps] [SRE VS DevOps]
+Watch this video : 
+
+<iframe width="560"
+        height="315"
+        src="https://www.youtube.com/embed/uTEL8Ff1Zvk"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+</iframe>
 
 ### Topics being covered :
 * What do you mean by SLI SLO and SLA 
@@ -105,7 +113,6 @@ Lets consider and example if your service SLA is defined as response latency wil
 service we know that most of the response are served withing 200 ms , so we could set our slo to be at 250ms, and in-case 
 of any issue, we could catch it earlier. So in this above case SLA is of 400ms , SLO is set at 250ms and SLI : Latency. 
 
-[SRE VS DevOps]:https://www.youtube.com/watch?v=uTEL8Ff1Zvk 
 [Measuring and Operating for Reliability]:/sre_blog/sre/2020/10/13/measuring-and-targeting-reliability.html
 [How to choose a Good SLI]:/sre_blog/sre/2020/10/14/choose-good-sli.html
 [Developing SLO's and SLI's for a new Service]:/sre_blog/sre/2020/10/14/developing-slo-sli.html
