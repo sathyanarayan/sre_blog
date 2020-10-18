@@ -59,8 +59,7 @@ Watch this video :
 * [Measuring and Operating for Reliability] [Measuring and Operating for Reliability]
 * [How to choose a Good SLI] [How to choose a Good SLI]
 * [Developing SLO's and SLI's for a new Service] [Developing SLO's and SLI's for a new Service]
-* Quantifying Risks to SLO's
-* Consequences of not having SLO's 
+* [Quantifying Risks and Consequences of not having SLO's] [Quantifying Risks and Consequences of not having SLO's]
 
 ### What is Service Reliability ? 
 I have often seen engineers getting confused with the `Relaiblity` and `Availability` of a service, so lets try defining them: 
@@ -116,3 +115,4 @@ of any issue, we could catch it earlier. So in this above case SLA is of 400ms ,
 [Measuring and Operating for Reliability]:/sre_blog/sre/2020/10/13/measuring-and-targeting-reliability.html
 [How to choose a Good SLI]:/sre_blog/sre/2020/10/14/choose-good-sli.html
 [Developing SLO's and SLI's for a new Service]:/sre_blog/sre/2020/10/14/developing-slo-sli.html
+[Quantifying Risks and Consequences of not having SLO's]:/sre_blog/sre/2020/10/18/2020-10-18-quantifying-cons-slo.markdown
