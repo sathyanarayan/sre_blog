@@ -108,4 +108,4 @@ of any issue, we could catch it earlier. So in this above case SLA is of 400ms ,
 [SRE VS DevOps]:https://www.youtube.com/watch?v=uTEL8Ff1Zvk 
 [Measuring and Operating for Reliability]:/sre_blog/sre/2020/10/13/measuring-and-targeting-reliability.html
 [How to choose a Good SLI]:/sre_blog/sre/2020/10/14/choose-good-sli.html
-[Developing SLO's and SLI's for a new Service]:/sre_blog/sre/2020/10/15/developing-slo-sli.html
+[Developing SLO's and SLI's for a new Service]:/sre_blog/sre/2020/10/14/developing-slo-sli.html
