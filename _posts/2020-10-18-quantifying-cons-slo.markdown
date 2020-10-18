@@ -32,7 +32,7 @@ if you are using Grafana, Kibana(to which your pushing metrics),Stackdriver , it
 
 Sample:
 
-![sre_blog_post3_1](/images/blog_post_4_1.png) 
+![sre_blog_post4_1](/sre_blog/images/blog_post_4_1.png)
 
 
 ### Error Budget Policy :
