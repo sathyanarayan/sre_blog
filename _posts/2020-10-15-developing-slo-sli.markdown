@@ -21,7 +21,7 @@ business requirement
 
 ### Example :
 
-![sre_blog_post3_1](/sre_blog/images/sre_blog_post3_1.png)
+![sre_blog_post3_1](/images/sre_blog_post3_1.png)
 
 The above is an example of user journey of viewing the product details in the app. I have considered the above route and 
 keeping it simple, in actual scenario the response would be obtained via connecting to multiple micro services. What do you
