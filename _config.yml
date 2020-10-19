@@ -21,9 +21,9 @@
 title: Site Reliability Engineering
 email: sathyanarayan.mec09@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Site Reliability Engineering: In this blog , ill be sharing
-  SRE related concepts, my views, techniques I implement and come across
-  during my carrier, for making a production system more reliable.
+  Site Reliability Engineering: In this blog , i'll be sharing
+  SRE related concepts, my views, techniques I implement and come-across
+  during my career, for making production systems more reliable.
 baseurl: "sre_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sathyanarayan
