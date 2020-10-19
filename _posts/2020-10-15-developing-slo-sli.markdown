@@ -50,4 +50,7 @@ my pipeline to which ill be supplying synthetic traffic and would be monitoring 
 on missing or empty data/monitoring points. Capturing all the falls at first go for complex systems are always unrealistic, 
 it would always be an incremental enhancement.
 
+#### Sample : [SLO Documentation] [SLO Documentation]
+
+[SLO Documentation]:https://landing.google.com/sre/workbook/chapters/slo-document/
 [previous post]:/sre_blog/sre/2020/10/14/choose-good-sli.html
